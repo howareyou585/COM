@@ -1,0 +1,10 @@
+Debug
+/Lesson1/Lesson1/*.user
+/Lesson1/Lesson1/*.filters
+/Lesson1/Lesson1/Debug/*.idb
+/Lesson1/Lesson1/Debug/*.pdb
+/Lesson1/Lesson1/Debug/*.txt
+/Lesson1/Lesson1/Debug/*.log
+/Lesson1/Lesson1/Debug/*.obj
+/Lesson1/Lesson1/Debug/Lesson1.tlog/*.lastbuildstate
+/Lesson1/Lesson1/Debug/Lesson1.tlog/*.tlog

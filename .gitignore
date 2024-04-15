@@ -8,3 +8,7 @@ Debug
 /Lesson1/Lesson1/Debug/*.obj
 /Lesson1/Lesson1/Debug/Lesson1.tlog/*.lastbuildstate
 /Lesson1/Lesson1/Debug/Lesson1.tlog/*.tlog
+*.ilk
+*.pdb
+*.exe
+.vs
